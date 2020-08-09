@@ -8,11 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## About repository
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Some outputs have been cleared due to their enormus length (outputs like random or iterative search)
 
 ## Authors
 
