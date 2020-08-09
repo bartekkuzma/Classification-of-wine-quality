@@ -24,4 +24,4 @@ Give examples
 
 ## Acknowledgments
 
-With this project I used materials from <i>Practical machine learning</i> classes at WNE UW.
+For the purposes of this project I used materials from <i>Practical machine learning</i> classes at WNE UW.
