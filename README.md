@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## About repository
 
-Some outputs have been cleared due to their enormus length (outputs like random or iterative search)
+Some outputs have been cleared due to their enormus length (outputs like random or iterative search, etc.).
 
 ## Authors
 
