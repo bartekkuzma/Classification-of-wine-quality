@@ -1,6 +1,6 @@
 # Classification of wine quality
 
-Project created to gain some experience and practise machine learning classfication algorithms.
+Project created to gain some experience and practise with machine learning classfication algorithms.
 
 ## About project
 
