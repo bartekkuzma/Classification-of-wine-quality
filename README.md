@@ -7,7 +7,7 @@ Project created to gain some experience and practise with machine learning class
 Project involves comparison between couple od machine learning algorithms in case of classification whethear wine is good or bad.  
 Algorithms/methods used in this project was <b>Linear Regression</b>, <b>SVM</b>, <b>kNN</b>, <b>Random Forest</b> and <b>XGBoost</b>.  
 Scores were calculated using cross validation (with 5 folds).  
-Some hiperparameters were optimizing using iterative search, some using random search and some using both. 
+Some hiperparameters were optimizing using iterative search, some using random search and some using both.   
 Project also includes some exploratory data analysis, with graphs such as histograms, boxplots or heatmap.
 
 ## About repository
