@@ -8,7 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## About repository
 
-Some outputs have been cleared due to their enormus length (outputs like random or iterative search, etc.).
+File <b>Wine quality - classification.ipynb</b> includes whole project. It is pretty long, well I decided to move summary section to the beginning of the notebook.  
+Some outputs have been cleared due to their enormus length (outputs like random or iterative search, etc.).  
+Repository contains also <b>wine.csv</b> dataset.
 
 ## Authors
 
