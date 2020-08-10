@@ -26,4 +26,4 @@ Repository contains also <b>wine.csv</b> dataset.
 
 ## Acknowledgments
 
-For the purposes of this project I used materials from <i>Practical machine learning</i> classes at WNE UW (eg. wrappers, etc.).
+For the purposes of this project I used materials from <i>Practical machine learning</i> classes at WNE UW (e.g. wrappers, etc.).
